@@ -1,7 +1,7 @@
 # Algoritmos-y-programacion-I
 Trabajos realizados en la materia algoritmos y programación 1 de la facultad de ingeniería (UBA). 
 
-##Trabajos
+## Trabajos
 -EJ1: Área de polígonos. Un ejercicio introductorio para aprender a usar el modo interactivo de Python y un editor de texto.
 -TP1: Sokoban. La primera parte del trabajo práctico en donde se trabaja la lógica del juego que sería usada en las partes siguientes.
 -EJ2: 5 en línea. Un ejercicio introductorio para aprender a usar la librería Gamelib provista por el profesor del curso y que sería usada en los trabajos posteriores.
