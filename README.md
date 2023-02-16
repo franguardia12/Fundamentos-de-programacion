@@ -2,7 +2,7 @@
 Trabajos realizados en la materia algoritmos y programación 1 de la facultad de ingeniería (UBA). 
 
 ## Trabajos
-- EJ1: Área de polígonos. Un ejercicio introductorio para aprender a usar el modo interactivo de Python y un editor de texto.
+- [EJ1: Área de polígonos] (https://algoritmos1rw.ddns.net/ej1). Un ejercicio introductorio para aprender a usar el modo interactivo de Python y un editor de texto.
 
 - TP1: Sokoban. La primera parte del trabajo práctico en donde se trabaja la lógica del juego que sería usada en las partes siguientes.
 
