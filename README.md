@@ -1,5 +1,5 @@
-# Algoritmos-y-programacion-I
-Trabajos realizados en la materia Algoritmos y Programación 1 de la facultad de ingeniería (UBA). 
+# Fundamentos-de-programacion
+Trabajos realizados en la materia fundamentos de programación (ex Algoritmos y Programación 1) de la facultad de ingeniería (UBA). 
 
 ## Trabajos
 - [EJ1: Área de polígonos](https://algoritmos1rw.ddns.net/ej1). Un ejercicio introductorio para aprender a usar el modo interactivo de Python y un editor de texto.
